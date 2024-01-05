@@ -1,0 +1,43 @@
+O Cartório do RGI pode exigir o comprovante de pagamento do ITBI mesmo se o Tabelião já tiver confirmado isso na Escritura?
+
+CartórioImposto sobre a transmissão de bens imóveis (ITBI)AdvogadoEscritura PúblicaRegistro de Imóvel
+O Cartório do RGI pode exigir o comprovante de pagamento do ITBI mesmo se o Tabelião já tiver confirmado isso na Escritura?
+
+Publicado por Julio Martins
+Data de publicação: 23/07/2023, 23:43:29|Atualizado em: 28/07/2023, 18:16:09
+
+O artigo 289 da Lei de Registros Publicos é claro e traz em si uma obrigação para os Registradores de imóveis em fiscalizar o recolhimento dos impostos relacionados aos atos que pratiquem (especialmente no registro das Escrituras de COMPRA E VENDA de imóveis). Reza o referido dispositivo:
+
+    "Art. 289. No exercício de suas funções, cumpre aos oficiais de registro fazer rigorosa fiscalização do pagamento dos impostos devidos por força dos atos que lhes forem apresentados em razão do ofício". 
+
+Engana-se quem pensa que somente os Oficiais do RGI têm essa obrigação; ela é também dos Notários, de acordo com o inciso XI do art. 30 da Lei de Notários e Registradores, senão vejamos:
+
+    "Art. 30. São deveres dos notários e dos oficiais de registro: 
+
+    (...) 
+
+    XI - fiscalizar o recolhimento dos impostos incidentes sobre os atos que devem praticar"
+
+Sabemos que tais regras também orbitam nas obrigações dos demais Oficiais do Registro Público (inc. VI do art. 134 do CTN), como pode ocorrer por exemplo para o Oficial do RCPJ por ocasião do registro de uma Escritura Pública de Inventário e Partilha envolvendo QUOTAS (art. 34 da Lei Estadual 7.174/2015) em sociedades.
+
+Pois bem, em sede de DIREITO NOTARIAL e REGISTRAL, sabemos que a FÉ PÚBLICA é um dos atributos marcantes dos atos notariais. A Escritura Pública é instrumento confeccionado pelo Tabelião e uma vez dotada de FÉ PÚBLICA irradia presunção de veracidade que só pode ser afastada se houver declaração judicial neste sentido (art. 427 do Código Fux), observado o devido processo legal. Da mesma forma que a ESCRITURA, também a CERTIDÃO IMPRESSA e a CERTIDÃO ELETRÔNICA estão incensadas com a Fé Pública conforme estabele o par.7º do art. 19 da Lei de Registros Publicos atualizada com a Lei do SERP (Lei 14.382/2022).
+
+Sobre tal princípio ensina a infastável e basilar doutrina exarada pelo Ex-Magistrado e atualmente Notário e Registrador Civil, Dr. LUIZ GUILHERME LOUREIRO (Registros Públicos. Teoria e Prática. 2023):
+
+    "A FÉ PÚBLICA pode ser definida como a autoridade legítima atribuída aos notários - e a outros agentes públicos como o juiz, o registrador e os cônsules, dentre outros - para que os documentos que autorizam em devida forma sejam considerados como autênticos e verdadeiros, até prova em contrário. Em outras palavras, a fé pública é VERDADE, CONFIANÇA ou autoridade que a lei atribui aos notários (e outros agentes públicos) no que concerne à verificação ou atestação de fatos, atos e contratos ocorridos ou produzidos em sua presença ou com sua participação. (...) a FÉ PÚBLICA se traduz na confiança que tem uma coletividade com relação a esses atos e documentos, de forma que é vedado à União, aos Estados, ao Distrito Federal e aos Municípios recusar fé aos documentos públicos, dentre os quais aqueles elaborados ou autenticados pelo notário, salvo prova de falsidade (art. 19, II, da CF). Por força deste princípio, os instrumentos públicos notariais somente podem ser tachados de nulos ou falsos após um procedimento judicial que assim o declare". 
+
+Um ponto importante - sobre o qual já discorremos inclusive - diz respeito ao momento dos recolhimentos de impostos nos atos notariais à luz dos"fatos geradores". Sem prejuízo disso, sabemos que por determinação do NCN, repetindo regra do CN anterior, é obrigação do Tabelião atestar no ato o pagamento dos tributos devidos pela prática do ato notarial, se esse for o caso (art. 320 c/c art. 348 e inc. III do art. 352).
+
+Importante destacar que o NCN/2023 (inc. III do art. 352) obriga que o Tabelião consigne no ato:
+
+    "que o imposto de transmissão devido foi recolhido, informando-se o número da guia, seu valor e data de pagamento ou que as partes se comprometem ao seu recolhimento antes da apresentação do ato notarial a registro, quando for o caso e a lei tributária assim o admitir" 
+
+Nesse contexto de inegável validade e oponibilidade da FÉ PÚBLICA lançada pelo Tabelião sobre o ato seria válida a exigência do Registrador quanto a necessidade de apresentação de comprovante de recolhimento de ITBI (ou mesmo ITD, se for o caso) para o registro de Escrituras, mesmo constando na Escritura a certificação quanto ao seu pagamento como determina o Código de Normas?
+
+EVIDENTEMENTE QUE NÃO! Ignorar a Fé Pública tabelioa é um verdadeiro desrespeito do Registrador para com o seu par e para com as normas a que deve cumprimento. Ora, não só a coletividade mas principalmente os Delegatários e seus prepostos devem observar e cumprir as normas da atividade registral e notarial. Negar vigência à Fé Pública do Tabelião - seja lá qual for a época da lavratura da Escritura - e isso é especialmente importante para as Escrituras antigas ainda não registradas - se mostra como verdadeira conduta repudiável e odiosa que também desrespeita os princípios registrais - como inclusive o ACESSO AO REGISTRO, consagrado no art. 1.092 do NCN. Sobre o assunto é claro mais uma vez o NCN em seu artigo 1.103:
+
+    "Art. 1.103. É SUFICIENTE à prova do recolhimento do imposto de transmissão ou do laudêmio eventualmente devidos em função do registro ou do ato formalizado em ESCRITURA PÚBLICA, a certificação feita pelo notário, no próprio instrumento, de que o valor foi pago ou exonerado (art. 352, § 3º, III e IV e 357, VI, b)". 
+
+Não por outra razão, com todo acerto, foi nesse sentido recente decisão do Conselho da Magistratura do TJRJ pelo afastamento da exigência de comprovante de ITBI para registro de Escritura:
+
+    "TJRJ. Proc. 0349197-23.2012.8.19.0001. J. em: 06/07/2023. REEXAME NECESSÁRIO. DÚVIDA FORMULADA PELO CARTÓRIO DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DA COMARCA DA CAPITAL. REQUERIMENTO PARA REGISTRO DE ESCRITURA DE CESSÃO DE DIREITOS AQUISITIVOS. ATO REGISTRAL ADIADO DIANTE DA NECESSIDADE DE APRESENTAÇÃO DE CÓPIA AUTENTICADA DO IMPOSTO DE TRANSMISSÃO - ITBI. SENTENÇA QUE JULGOU A DÚVIDA IMPROCEDENTE. ENCAMINHAMENTO DOS AUTOS A ESTE E. CONSELHO DA MAGISTRATURA, POR IMPOSIÇÃO DO ARTIGO 48, § 2º DA LODJ. PARECER DA PROCURADORIA-GERAL DA JUSTIÇA PELA CONFIRMAÇÃO DA R. SENTENÇA. ALTERAÇÃO DA LEGISLAÇÃO. INTELIGÊNCIA DO ART. 1.103 DO CNCGJ - PE. AFIGURA-SE SUFICIENTE COMO PROVA DE RECOLHIMENTO DO IMPOSTO DE TRANSMISSÃO, A CERTIFICAÇÃO FEITA PELO NOTÁRIO, NO PRÓPRIO INSTRUMENTO, DE QUE O VALOR FOI PAGO OU EXONERADO. TABELIÃO QUE, À ÉPOCA DA LAVRATURA DA ESCRITURA, NOS IDOS DE 1985, CERTIFICOU O PAGAMENTO DO TRIBUTO NO PRÓPRIO TÍTULO. SENTENÇA QUE SE CONFIRMA EM REEXAME NECESSÁRIO". 

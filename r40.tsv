@@ -1,0 +1,40 @@
+do que trata o texto?	listagem de produtos de categoria ferragens com preço e condições de pagamento.
+qual o produto listado?	Arruelas
+quantos produtos estão no texto?	3 tipos de Arruelas
+que marcas são as arruelas?	Fixtil e JM Parafusos
+qual a marca do primeiro produto?	Fixtil
+qual a marca da primeira arruela?	Fixtil
+qual a marca da última arruela?	JM Parafusos
+qual a marca do último produto?	JM Parafusos
+quanto custa a Arruela Lisa 3/8"?	R$ 7,31 À vista
+quanto custa a Arruela Lisa 5/16"?	R$ 6,25 À vista
+quanto custa a Arruela Lisa 1/2" JM Parafusos?	não há essa informação
+quanto custa a Arruela Lisa 1/2" JM Parafusos?	informação ausente no texto
+quanto custa a primeira Arruela?	R$ 7,31 À vista
+quanto custa a segunda arruela?	R$ 6,25 À vista
+quanto custa a última arruela?	no texto não tem informação do preço da última arruela
+liste os produtos ofertados	Arruela Lisa 3/8" Fixtil, Arruela Lisa 5/16" Fixtil e Arruela Lisa 1/2" JM Parafusos 
+qual a medida da Arruela que custa R$ 7,31?	3/8"
+qual a medida da Arruela que custa 6,25?	5/16"
+qual a medida da arruela sem preço?	1/2"
+qual a arruela sem preço?	Arruela Lisa 1/2" JM Parafusos 
+liste a medidas das arruelas	3/8", 5/16" e 1/2"
+liste as marcas das arruelas	Fixtil e JM Parafusos
+a loja é a JM Parafusos?	não é possível determinar com as informações dadas, porém é provavél que JM Parafusos seja somente a marca da Arruela Lisa 1/2" e não seja o nome da loja
+a loja é a Fixtil?	não é possível determinar com as informações dadas, porém é provavél que Fixtil seja somente uma marca das arruelas
+as arruelas estão em polegas ou milimetros?	em polegadas
+o texto é sexual?	não
+o texto é uma listagem de produtos?	sim
+o texto é de algum ecommerce?	provavelmente sim
+o texto é sobre ferragens?	sim
+o texto tem preços?	sim
+o texto é sobre o Banco Central?	não
+pode pagar no PIX?	sim
+qual a vantagem de se pagar no PIX?	os preços são menores
+ordene os preços a vista do menor ao maior	R$ 6,25 e R$ 7,31
+porque há dois preços?	um preço é à vista no PIX e outro provavelmente no cartão de crédito
+as arruelas são lisas?	sim
+as arruelas são de metal?	não há essa informação
+as arruelas são foscas?	não
+as arruelas são de borracha?	não há essa informação
+qual o material das arruelas?	não há essa informação no texto, porém é provável que sejam de metal

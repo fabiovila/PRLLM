@@ -1,0 +1,8 @@
+Preciso de um pequeno texto sobre o Teorema da dualidade	<|answer|>
+Qual o assunto?	Teorema da dualidade - Otimização
+Qual é a relação entre as soluções viáveis do problema dual e o valor ótimo do problema primal?	Qualquer solução viável para o problema dual fornece um limite superior para o valor ótimo do problema primal. Da mesma forma, qualquer solução viável do primal fornece um limite inferior no valor ótimo do problema dual.
+O que acontece se um dos dois problemas, primal ou dual, possui uma solução ótima?	Se um dos dois problemas, primal ou dual, possui uma solução ótima, então o outro problema também possui uma solução ótima. Além disso, as soluções ótimas dos dois problemas combinam entre si.
+Como é conhecido o resultado que envolve a relação entre os problemas primal e dual?	Esse resultado é conhecido como teorema da dualidade.
+Qual é o efeito das soluções viáveis do primal no dual e vice-versa?	As soluções viáveis do primal fornecem um limite inferior no valor ótimo do dual, enquanto as soluções viáveis do dual fornecem um limite superior no valor ótimo do primal.
+O que é reciproco no texto?	se um dos dois problemas admite uma solução ótima, então o outro problema também admite e as soluções ótimas combinam entre si.
+O que é o problema dual em relação a um programa linear de maximização?	O problema dual é um problema de minimização correspondente a um programa linear de maximização. Ele está relacionado ao programa linear original, conhecido como primal, e fornece um limite superior para o valor ótimo do primal.

@@ -1,0 +1,3 @@
+Eu disse que estou com certa experiência com IA. Treinei uma Rede Transformer de poucos parametros e apesar de ser burra (por ter poucos parametros) ela surpreende com algumas respostas.
+Botei Muitos textos academicos, filosofia, médico, reportagens, wikipedia, contos de terror e eróticos e senso comum.
+Ou seja, ganhei experiência com isso.

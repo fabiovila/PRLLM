@@ -1,0 +1,15 @@
+TAXA NOMINAL E TAXA EFETIVA
+TAXA NOMINAL
+• É a taxa de juros expressa para o período inteiro, a qual deve ser
+atribuída ao período de capitalização.
+TAXA EFETIVA
+• É a taxa que leva em consideração todos os custos com a captação
+do recurso: juros + tarifas não inclusas na taxa de juros. Exemplo:
+desconto de R$ 1.0000 de duplicatas, com juros de 10% e tarifa
+bancária de R$ 50:
+Duplicatas descontadas = 1.000
+Juros = 1000 x 10% = 100
+Tarifa = 50
+Recebido = 850
+17
+Taxa efetiva = 17,65%

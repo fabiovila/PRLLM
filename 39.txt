@@ -1,0 +1,1 @@
+Três casas - A, B e C - foram pintadas, cada uma, com uma das seguintes cores: verde, amarela ou branca, não necessariamente nesta ordem. Sabendo que somente uma das seguintes afirmações é verdadeira: A é verde; B não é verde; C não é amarela. Então, qual é a cor de cada casa?

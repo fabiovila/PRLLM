@@ -1,0 +1,31 @@
+Qual é o total de RAM da GPU?	O total de RAM da GPU é 15101.
+Quanta RAM está reservada na GPU?	Está reservada 2 de RAM na GPU.
+Quanta RAM está alocada na GPU?	Nenhuma RAM está alocada na GPU.
+Quanta RAM está livre na GPU?	Está livre 1 de RAM na GPU.
+Qual é o tamanho do lote (batch size)?	O tamanho do lote é 7.
+Qual é a RAM da GPU utilizada?	A RAM da GPU utilizada é 15101.
+De onde está sendo retomado o treinamento?	O treinamento está sendo retomado a partir de "out".
+Qual é o número total de parâmetros?	O número total de parâmetros é 145.38M.
+Está sendo utilizado o fused AdamW?	Sim, está sendo utilizado o fused AdamW.
+Quanto tempo leva para compilar o modelo?	Leva cerca de um minuto para compilar o modelo.
+Qual é a perda de treinamento no passo 32500?	A perda de treinamento no passo 32500 é 2.8126.
+Qual é a perda de validação no passo 32500?	A perda de validação no passo 32500 é 4.0447.
+Onde está sendo salvo o checkpoint?	O checkpoint está sendo salvo em "out".
+Qual é o tempo de treinamento no passo 32500?	O tempo de treinamento no passo 32500 é de 2.32 minutos.
+Qual é o próximo horário de verificação após o passo 32500?	O próximo horário de verificação após o passo 32500 é 552.11 minutos ou 9.20 horas.
+Qual é o tempo total no passo 32500?	O tempo total no passo 32500 é de 132.51 segundos.
+Qual é o valor de mfu no passo 32500?	O valor de mfu no passo 32500 é de -100.00%.
+Qual é o valor de perda no passo 32505?	O valor de perda no passo 32505 é 3.2672.
+Qual é o tempo de treinamento no passo 32505?	O tempo de treinamento no passo 32505 é de 4.09 minutos.
+Qual é o próximo horário de verificação após o passo 32505?	O próximo horário de verificação após o passo 32505 é 87.34 minutos ou 1.46 horas.
+Qual é o valor de mfu no passo 32505?	O valor de mfu no passo 32505 é de 4.36%.
+Quanto tempo leva para compilar o modelo?	Leva cerca de um minuto para compilar o modelo.
+Qual é a perda de treinamento no passo 32510?	A perda de treinamento no passo 32510 é 2.6407.
+Qual é a perda de validação no passo 32510?	A perda de validação no passo 32510 não está mencionada no texto.
+Qual é o próximo horário de verificação após o passo 32515?	O próximo horário de verificação após o passo 32515 é 83.08 minutos ou 1.38 horas.
+Qual é o valor de mfu no passo 32515?	O valor de mfu no passo 32515 é de 4.36%.
+Qual é o valor de perda no passo 32520?	O valor de perda no passo 32520 é 2.7724.
+Qual é o tempo de treinamento no passo 32520?	O tempo de treinamento no passo 32520 é de 9.39 minutos.
+Qual é o próximo horário de verificação após o passo 32525?	O próximo horário de verificação após o passo 32525 é 79.71 minutos ou 1.33 horas.
+Qual é o valor de mfu no passo 32525?	O valor de mfu no passo 32525 é de 4.37%.
+Do que se trata o texto?	Possivelmente é o log de registro de um treinamento de redes neurais utilizando GPU

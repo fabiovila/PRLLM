@@ -1,0 +1,6 @@
+20) (CESPE / CEBRASPE/2018) Julgue o item que segue, a respeito de lógica proposicional. A sentença “No Livro dos Heróis da Pátria consta o nome de Francisco José do Nascimento, o Dragão do Mar, por sua atuação como líder abolicionista no estado do Ceará.” é uma proposição simples.
+C) Certo
+E) Errado
+COMENTÁRIOS:
+O CESPE considera que se a proposição tem apenas um verbo, ela é proposição simples.
+GABARITO: C

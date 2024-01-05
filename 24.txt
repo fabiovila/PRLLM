@@ -1,0 +1,42 @@
+GPU RAM TOTAL: 15101 RESERVED: 2 ALLOCATED: 0 FREE: 1
+BATCH SIZE: 7 GPU RAM: 15101
+Resuming training from out
+number of parameters: 145.38M
+using fused AdamW: True
+compiling the model... (takes a ~minute)
+step 32500: train loss 2.8126, val loss 4.0447
+saving checkpoint to out
+save done
+iter 32500: loss 2.9932, ctime 2.32m, nextCheck 552.11m 9.20h time 132.51s, mfu -100.00%
+iter 32505: loss 3.2672, ctime 4.09m, nextCheck 87.34m 1.46h time 21.39s, mfu 4.36%
+iter 32510: loss 2.6407, ctime 5.86m, nextCheck 84.91m 1.42h time 21.23s, mfu 4.36%
+iter 32515: loss 2.6675, ctime 7.63m, nextCheck 83.08m 1.38h time 21.21s, mfu 4.36%
+iter 32520: loss 2.7724, ctime 9.39m, nextCheck 81.19m 1.35h time 21.18s, mfu 4.37%
+iter 32525: loss 2.9882, ctime 11.16m, nextCheck 79.71m 1.33h time 21.25s, mfu 4.37%
+iter 32530: loss 2.7059, ctime 12.93m, nextCheck 77.80m 1.30h time 21.22s, mfu 4.37%
+iter 32535: loss 3.0708, ctime 14.70m, nextCheck 75.97m 1.27h time 21.20s, mfu 4.37%
+iter 32540: loss 2.6375, ctime 16.46m, nextCheck 74.26m 1.24h time 21.22s, mfu 4.37%
+iter 32545: loss 2.0036, ctime 18.23m, nextCheck 72.58m 1.21h time 21.24s, mfu 4.38%
+iter 32550: loss 2.9920, ctime 20.00m, nextCheck 70.56m 1.18h time 21.17s, mfu 4.38%
+iter 32555: loss 2.7272, ctime 21.77m, nextCheck 69.06m 1.15h time 21.25s, mfu 4.38%
+iter 32560: loss 3.2569, ctime 23.54m, nextCheck 67.28m 1.12h time 21.25s, mfu 4.38%
+iter 32565: loss 2.8056, ctime 25.31m, nextCheck 65.57m 1.09h time 21.27s, mfu 4.38%
+iter 32570: loss 2.9473, ctime 27.08m, nextCheck 63.63m 1.06h time 21.21s, mfu 4.38%
+iter 32575: loss 2.7960, ctime 28.84m, nextCheck 61.91m 1.03h time 21.23s, mfu 4.38%
+iter 32580: loss 3.0424, ctime 30.61m, nextCheck 60.20m 1.00h time 21.25s, mfu 4.38%
+iter 32585: loss 3.0895, ctime 32.38m, nextCheck 58.29m 0.97h time 21.19s, mfu 4.38%
+iter 32590: loss 2.8664, ctime 34.15m, nextCheck 56.56m 0.94h time 21.21s, mfu 4.38%
+iter 32595: loss 2.5654, ctime 35.91m, nextCheck 54.86m 0.91h time 21.24s, mfu 4.38%
+iter 32600: loss 3.1539, ctime 37.68m, nextCheck 52.99m 0.88h time 21.19s, mfu 4.39%
+iter 32605: loss 2.7685, ctime 39.45m, nextCheck 51.29m 0.85h time 21.22s, mfu 4.39%
+iter 32610: loss 3.2713, ctime 41.22m, nextCheck 49.51m 0.83h time 21.22s, mfu 4.39%
+iter 32615: loss 2.5987, ctime 42.99m, nextCheck 47.66m 0.79h time 21.18s, mfu 4.39%
+iter 32620: loss 2.7090, ctime 44.75m, nextCheck 45.97m 0.77h time 21.22s, mfu 4.39%
+iter 32625: loss 2.6383, ctime 46.52m, nextCheck 44.21m 0.74h time 21.22s, mfu 4.39%
+iter 32630: loss 3.0743, ctime 48.29m, nextCheck 42.37m 0.71h time 21.18s, mfu 4.39%
+iter 32635: loss 2.6337, ctime 50.05m, nextCheck 40.62m 0.68h time 21.20s, mfu 4.39%
+iter 32640: loss 3.0251, ctime 51.82m, nextCheck 38.89m 0.65h time 21.21s, mfu 4.39%
+iter 32645: loss 2.7289, ctime 53.59m, nextCheck 37.16m 0.62h time 21.24s, mfu 4.39%
+iter 32650: loss 2.5790, ctime 55.36m, nextCheck 35.39m 0.59h time 21.23s, mfu 4.39%
+iter 32655: loss 2.9574, ctime 57.13m, nextCheck 33.56m 0.56h time 21.19s, mfu 4.39%
+iter 32660: loss 2.8761, ctime 58.90m, nextCheck 31.78m 0.53h time 21.19s, mfu 4.39%

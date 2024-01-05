@@ -1,0 +1,125 @@
+ Membros Áreas de Pesquisa Problemas de Interesse Sites Relacionados
+Laboratório de ALgoritmos, Otimização e Combinatória (ALOC)
+O laboratório ALOC é um grupo de pesquisa focado no desenvolvimento de algoritmos eficientes para problemas de otimização combinatória, que foi fundado em 2018 e está localizado na sala LP 25 do Departamento de Computação da UFSCar (DC-UFSCar), campus de São Carlos. Nossos objetivos envolvem tanto a qualificação de estudantes na resolução de problemas computacionais complexos, tipicamente NP-Difíceis, quanto a modelagem e resolução de problemas da indústria, normalmente atacados pela área correlata da pesquisa operacional. O curso Introdução à Otimização Combinatória Aplicada (IOCA) faz uma boa apresentação dos problemas abordados e técnicas de pesquisa utilizadas neste laboratório.
+
+Membros
+Professores
+
+    Mário César San Felice (Lattes, LinkedIn)
+    Pedro Hokama (Lattes, LinkedIn) (colaborador)
+
+Estudantes
+
+    Ricardo Araújo da Silva (Lattes, LinkedIn)
+    Lorenzo Correia Maia (Lattes, LinkedIn)
+    Giuseppe Chaves Magnago (Lattes, LinkedIn)
+
+Ex-integrantes
+
+    André Luís Rodrigues Júnior (Lattes, LinkedIn)
+    Esther Calderan Hoffmann (Lattes, LinkedIn)
+    Guilherme Gomes Arcencio (Lattes, LinkedIn)
+    João Victor Mendes Freire (Lattes, LinkedIn)
+    Lucas Machado Cid (Lattes, LinkedIn)
+    Matheus Teixeira Mattioli (Lattes, LinkedIn)
+    Nana de Souza Ekman Simões (Lattes)
+    Nicholas R.F.O. Lopes (Lattes, LinkedIn, vídeo)
+    Renata Sarmet Smiderle Mendes (Lattes, LinkedIn, vídeo)
+    Rodrigo Prata Salmen (Lattes, LinkedIn, vídeo)
+    Roger Sigolo Junior (Lattes, LinkedIn, vídeo)
+
+
+Áreas de pesquisa
+Principais
+
+    Otimização combinatória e discreta são tópicos de interesse das áreas de pesquisa operacional, matemática aplicada e teoria da computação, em que se busca encontrar um objeto ótimo em um conjunto finito de objetos, sendo que para muitos problemas dessas áreas a busca exaustiva não é tratável. Estes tópicos operam no domínio dos problemas de otimização em que o conjunto de soluções viáveis é discreto ou pode ser reduzido a um conjunto discreto, e o objetivo é encontrar a melhor solução. Alguns problemas comuns envolvendo otimização combinatória são o Problema do Caixeiro-Viajante, o Problema da Árvore Geradora Mínima e o Problema da Mochila.
+        C. H. Papadimitriou, K. Steiglitz. Combinatorial Optimization: Algorithms and Complexity. Prentice-Hall, Inc., Upper Saddle River, NJ, USA. 1982.
+        W. J. Cook, W. H. Cunningham, W. R. Pulleyblank, A. Schrijver. Combinatorial Optimization. 1st edition, Wiley-Interscience, 1997.
+        Pascal Van Hentenryck. Curso "Discrete Optimization" no Coursera. The University of Melbourne, Australia.
+
+    Algoritmos de aproximação, usados nas áreas de ciência da computação e pesquisa operacional, são algoritmos eficientes que encontram soluções aproximadas para problemas de otimização NP-Difíceis e que possuem garantias teóricas para a razão entre a solução encontrada pelo algoritmo e uma solução ótima para o problema. Algoritmos de aproximação surgem naturalmente na área de teoria da computação como consequência da conjectura P != NP. Supondo que ela seja verdadeira, o que é amplamente considerado, uma grande variedade de problemas de otimização não pode ser resolvida exatamente em tempo polinomial. Portanto, além de buscar por algoritmos com boas garantias de qualidade, a área de algoritmos de aproximação também tenta entender o quanto é possível se aproximar, em tempo polinomial, das soluções ótimas desses problemas.
+        D. P. Williamson, D. B. Shmoys. The Design of Approximation Algorithms. Cambridge University Press, 2011.
+        V. V. Vazirani. Approximation Algorithms. Springer, 2010.
+
+    Algoritmos online, na ciência da computação, são aqueles que satisfazem a uma sequência desconhecida e imprevisível de requisições, atendendo cada requisição antes que as seguintes sejam reveladas. Análise competitiva é um método comumente usado para analisar algoritmos online, no qual o desempenho do algoritmo é comparado com o desempenho de um algoritmo offline ótimo, que tem conhecimento de toda a sequência de requisições. Dizemos que um algoritmo online é c-competitivo se sua razão de competitividade, i.e., a razão entre o custo de sua solução e o custo da solução offline ótima para qualquer instância, for limitado por c.
+        Susanne Albers. Capítulo "Online algorithms" em Interactive Computation: The New Paradigm edited by D.Q. Goldin, S.A. Smolka and P. Wegner, 143-164, 2006.
+        N. Buchbinder, J. (Seffi) Naor. The Design of Competitive Online Algorithms via a Primal-Dual Approach. Now Publishers Inc, 2009.
+        A. Borodin, R. El-Yaniv. Online Computation and Competitive Analysis. Cambridge University Press, 1998.
+
+    Programação linear e inteira. Programação linear (PL) é um método para alcançar o melhor resultado (como lucro máximo ou custo mínimo) num modelo matemático cujas restrições são expressões lineares. Programação linear é um caso especial de programação matemática. Mais formalmente, programação linear é uma técnica para a otimização de uma função objetivo linear, sujeita a restrições de igualdade e desigualdade lineares. Sua região viável é um politopo convexo, o qual é um conjunto definido pela interseção de um número finito de semiespaços, cada um definido por uma desigualdade linear. Sua função objetivo é uma função afim (linear), que assume valores reais, definida nesse poliedro. Um algoritmo de programação linear encontra um ponto no politopo onde a função objetivo apresenta o menor (ou maior) valor, se esse ponto existir. Programação linear inteira (PLI) compreende problemas modelados como programas lineares em que algumas ou todas as variáveis estão restritas ao domínio dos números inteiros. Vale destacar que, enquanto problemas de programação linear são resolvíveis em tempo polinomial, problemas de programação linear inteira, em geral, são NP-Difíceis.
+        M. S. Bazaraa, J. J. Jarvis, H. D. Sherali. Linear Programming and Network Flows. 4th edition, Wiley, 2009.
+        D. Bertsimas, J. N. Tsitsiklis, J. Tsitsiklis. Introduction to Linear Optimization. Athena Scientific, 1997.
+        G. L. Nemhauser, L. A. Wolsey. Integer and Combinatorial Optimization. 1st edition, Wiley-Interscience, 1999.
+        L. A. Wolsey. Integer programming. 1st edition, Wiley-Interscience, 1998.
+
+    Projeto e análise de algoritmos se refere ao conjunto de métodos para desenvolver algoritmos a fim de resolver problemas computacionais. Alguns métodos importantes são divisão-e-conquista, algoritmos gulosos, programação dinâmica, aleatoriedade e redução entre problemas. Um dos aspectos mais importantes do projeto e análise de algoritmos está na busca por soluções eficientes. Em geral, isso envolve encontrar uma função que relaciona o tamanho da entrada com o número de operações realizadas pelo algoritmo, sendo que este último está ligado ao tempo de execução do mesmo. Um algoritmo é eficiente se seu tempo de execução cresce devagar em relação ao tamanho da entrada, mas diferentes entradas de mesmo tamanho podem resultar em tempos de execução distintos. Por isso, análises de melhor, médio, e pior caso são utilizadas, sendo mais comuns as análises de pior caso.
+        T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein. Introduction to Algorithms. The MIT Press, 2009.
+        S. Dasgupta, C. Papadimitriou, U. Vazirani. Algorithms. Boston: McGraw-Hill, 2008.
+        J. Kleinberg, E. Tardos. Algorithm design. Pearson/Addison-Wesley, 2006.
+        Tim Roughgarden. Curso "Design and Analysis of Algorithms" no Coursera. Stanford University, USA.
+
+    Engenharia de algoritmos é uma metodologia geral para pesquisa em algoritmos que abrange o projeto e a análise de algoritmos práticos, a implementação eficiente desses algoritmos, além da experimentação que fornece informações sobre a aplicabilidade dos algoritmos implementados e melhorias adicionais possíveis. Assim, esta metodologia faz a ponte entre teoria da computação e aplicações práticas de algoritmos.
+        M. Müller-Hannemann, S. Schirra. Algorithm Engineering: Bridging the Gap Between Algorithm Theory and Practice. Springer, 2010.
+
+Secundárias
+
+    Algoritmos probabilísticos são aqueles que empregam algum grau de aleatoriedade como parte de sua lógica. Esse tipo de algoritmo geralmente usa bits aleatórios com distribuição uniforme como entrada auxiliar para guiar o seu comportamento, com a esperança de conseguir um bom desempenho no caso médio entre todas as escolhas de bits aleatórios. Formalmente, o desempenho do algoritmo será uma variável aleatória determinada pelos bits aleatórios e, portanto, o tempo de execução do algoritmo ou a saída (ou ambos) serão variáveis aleatórias.
+        M. Mitzenmacher, E. Upfal. Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis. 2nd edition, Cambridge University Press, 2017.
+        R. Motwani, P. Raghavan. Randomized Algorithms. Cambridge University Press, 1995.
+
+    Matemática discreta é o estudo de estruturas matemáticas que são fundamentalmente discretas ao invés de contínuas. Em contraste com os números reais, que têm a propriedade de variar "suavemente", os objetos estudados em matemática discreta - como números inteiros, grafos e declarações lógicas - não variam suavemente dessa maneira, mas possuem valores distintos e separados. Mais formalmente, a matemática discreta tem sido caracterizada como o ramo da matemática que lida com conjuntos contáveis (conjuntos finitos ou conjuntos com a mesma cardinalidade que os números naturais).
+        A. Gomide, J. Stolfi. Elementos de Matemática Discreta para Computação. 2011.
+        Kenneth Rosen. Discrete Mathematics and Its Applications. McGraw-Hill Science/Engineering/Math, 2011.
+        D. J. Velleman. How to Prove It: A Structured Approach. 3rd edition, Cambridge University Press, 2019.
+
+    Metaheurísticas, em ciência da computação e otimização matemática, são procedimentos desenvolvidos para encontrar, gerar ou selecionar uma heurística (algoritmo de busca parcial) que pode fornecer uma solução suficientemente boa para um problema de otimização, especialmente para problemas com informações incompletas, imperfeitas ou com capacidade computacional limitada. Metaheurísticas sorteiam soluções em um conjunto que é muito grande para ser completamente examinado. Como metaheurísticas costumam fazer poucas suposições sobre o problema de otimização que está sendo resolvido, elas podem ser usadas para uma variedade de problemas.
+        El-Ghazali Talbi. Metaheuristics: From Design to Implementation. Wiley, 2009.
+        M. Gendreau, J. Potvin. Handbook of Metaheuristics. 2nd edition, Springer, 2010.
+
+    Pesquisa operacional lida com a aplicação de métodos analíticos avançados para dar suporte à tomada de decisões. Empregando técnicas de outras ciências matemáticas, como modelagem matemática, análise estatística e otimização matemática, pesquisa operacional encontra soluções ótimas ou quase ótimas para problemas de tomada de decisão complexos. Por conta de sua ênfase na interação com tecnologias e em função de seu foco em aplicações práticas, pesquisa operacional se intersecta com outras disciplinas, notadamente da engenharia de produção. Pesquisa operacional frequentemente busca determinar um valor extremo de alguma função objetivo do mundo real: o máximo (do lucro, desempenho ou produção) ou o mínimo (da perda, risco ou custo). Com sua origem remontando a esforços militares anteriores à Segunda Guerra Mundial, suas técnicas se desenvolveram e espalharam, passando a abarcar uma grande variedade de indústrias.
+        M. Arenales, V. Armentano, R. Morabito, H. Yanasse. Pesquisa operacional. 2a Edição, GEN LTC, 2015.
+        F.S. Hillier, G.J. Lieberman. Introduction to Operations Research. 9th edition, McGraw-Hill Higher Education, 2009.
+
+    Programação por restrições é um paradigma para resolver problemas combinatórios que se baseia em uma ampla gama de técnicas, advindas da inteligência artificial, ciência da computação e pesquisa operacional. Na programação por restrições, os usuários declaram as restrições que devem ser satisfeitas por soluções viáveis para um conjunto de variáveis de decisão. As restrições diferem das primitivas comuns das linguagens de programação imperativas, pois elas não especificam uma etapa ou sequência de etapas a serem executadas, mas correspondem a propriedades de uma solução a ser encontrada. Além das restrições, os usuários também precisam especificar um método para encontrar as soluções. Em geral são usados métodos de busca padrão, como backtracking e propagação de restrições, mas também pode ser usado código personalizado, como uma heurística de ramificação específica para um problema.
+        Rina Dechter. Constraint Processing. 1st edition, Morgan Kaufmann, 2003.
+        F. Rossi, P. van Beek, T. Walsh. Handbook of Constraint Programming. 1st edition, Elsevier Science, 2006.
+
+    Teoria dos grafos é o estudo de estruturas matemáticas, chamadas grafos, que são usadas para modelar relações par-a-par entre objetos. Nesse contexto, um grafo é composto por vértices (também chamados de nós) que são conectados por arestas (também chamadas de arcos). É feita uma distinção entre grafos não direcionados, nos quais arestas conectam dois vértices simetricamente, e grafos direcionados, nos quais arestas conectam dois vértices assimetricamente. Grafos são um dos principais objetos de estudo na matemática discreta.
+        Richard J. Trudeau. Introduction to Graph Theory. 2nd edition, Dover Publications, 1994.
+        J. A. Bondy, U. S. R. Murty. Graph Theory. Springer, 2008.
+        Douglas B. West. Introduction to Graph Theory. 2nd edition, Pearson, 2000.
+
+
+Problemas de interesse
+
+    O Problema da Localização de Instalações lida com decisões de abertura e posicionamento de instalações de modo a atender às demandas de conexão dos clientes, incorrendo no menor custo possível. Ele é bastante relevante tanto na teoria da computação, sendo um problema NP-difícil largamente estudado, quanto na pesquisa operacional, por capturar aplicações práticas como posicionamento de fábricas, construção de redes de computadores e clusterização da informação.
+
+    O Problema da Cobertura por Conjuntos é um problema clássico em otimização combinatória, pesquisa operacional e teoria da computação, sendo um dos 21 problemas NP-completos de Karp, os primeiros que foram provados NP-completos depois do problema da satisfatibilidade. Neste problema desejamos cobrir um dado universo de elementos selecionando uma coleção de conjuntos com menor custo possível. Este problema tem diversas aplicações interessantes, como no projeto de antivírus, na área de telefonia móvel e em testes automáticos de software.
+
+    Problema da Cobertura por Vértices. Em teoria dos grafos, uma cobertura por vértices é um conjunto de vértices, tal que cada aresta do grafo tem ao menos uma extremidade incidente em um vértice do conjunto. O problema de encontrar uma cobertura por vértices mínima é um problema clássico de otimização combinatória e um exemplo de problema NP-difícil. Além disso, ele é um caso particular do problema da cobertura por conjuntos e é um exemplo de problema tratável com parâmetro fixo, sendo central na teoria de complexidade parametrizada.
+
+    No Problema do Caixeiro Viajante (TSP) temos um conjunto de cidades, bem como as distâncias entre estas, e queremos saber qual é o circuito de comprimento mínimo que passa por todas elas exatamente uma vez. Não apenas é um problema NP-difícil, como deu origem à conjectura de que para alguns problemas não existe algoritmo polinomial exato. Sendo central nas áreas de otimização combinatória, teoria da computação e pesquisa operacional, possui diversas aplicações práticas em áreas como planejamento, logística e manufatura de microchips.
+        William J. Cook. In Pursuit of the Traveling Salesman: Mathematics at the Limits of Computation. Princeton University Press, 2014.
+
+    Problemas de Steiner em Grafos são uma família de problemas em otimização combinatória que, em geral, envolvem um grafo com pesos nas arestas, um subconjunto de vértices (chamados terminais) e cujo objetivo é conectar os terminais da forma mais barata possível. Em geral, os problemas desta família são NP-difíceis e podem modelar diversas situações práticas, como construção de redes de comunicação e projeto de circuitos digitais. O mais famoso problema da família é o problema da árvore de Steiner, e outra variante notória é o problema da árvore de Steiner no plano Euclidiano.
+
+    Problemas de Fluxo em Redes são uma classe de problemas em otimização combinatória, cuja entrada é um grafo com capacidades nas arestas e nos quais o objetivo é construir um fluxo (atribuição de valores nas arestas) que respeita as capacidades e a propriedade de conservação de fluxo, i.e., a quantidade de fluxo que entra em cada vértice é a mesma que sai, exceto por alguns vértices especiais. Alguns problemas importantes desta classe são o problema do Fluxo Máximo, o problema do Fluxo de Custo Mínimo, e o problema de Fluxo com Várias Mercadorias.
+        R. K. Ahuja, T. L. Magnanti, J. B. Orlin. Network Flows: Theory, Algorithms, and Applications. 1st Edition, Pearson, 1993.
+        M. S. Bazaraa, J. J. Jarvis, H. D. Sherali. Linear Programming and Network Flows. 4th Edition, Wiley, 2009.
+
+    Problemas de Corte em Grafos. Em teoria dos grafos, um corte é uma partição dos vértices em dois conjuntos disjuntos, de modo a definir um conjunto de arestas que atravessa o corte, i.e., que tem uma extremidade em cada conjunto da partição. Na família dos problemas de Corte em Grafos busca-se encontrar um corte cujas arestas, ao serem removidas desconectam determinados vértices. Esses problemas são bastante relevantes tanto do ponto de vista de dificuldade teórica, muitos deles sendo NP-difíceis, quanto pela motivação de aplicações práticas, por modelarem problemas de computação distribuída, identificação de vulnerabilidades em redes e agrupamento de dados. Alguns problemas importantes desta família são o problema do Corte Mínimo, o problema do Corte Máximo, o problema do Corte Esparso, e o problema do Multicorte.
+
+    No Problema de Empacotamento há um conjunto de itens de diferentes tamanhos e recipientes com capacidade fixa que podem conter esses itens. O problema consiste em encontrar uma maneira de alocar os itens de modo a utilizar o menor número possível de recipientes. Este problema típico da teoria da computação é NP-difícil e tem grande relevância na pesquisa operacional, pois suas aplicações envolvem armazenamento de produtos, distribuição de tarefas e transporte de mercadorias. Variantes importantes deste problema são as versões de empacotamento bi e tridimensional.
+
+    O Problema de Roteamento de Veículos (VRP) é um problema de otimização combinatória e programação inteira, que compreende a construção de um conjunto de rotas de modo que veículos saiam de um depósito, atendam à um conjunto de clientes e retornem para o depósito. O objetivo é encontrar um conjunto de rotas que minimize um determinado custo, como distância percorrida, tempo de viagem ou gastos financeiros. Este é um problema NP-difícil, que generaliza o TSP, e que possui muitas aplicações na área de logística. Diversas variantes do problema são estudadas, acrescentando detalhes como capacidade dos veículos, vários depósitos, restrições de tempo para visitar os clientes, e clientes com tipos coleta e entrega.
+
+    O Problema de Escalonamento é um problema de otimização, comum na ciência da computação e na pesquisa operacional, em que tarefas devem ser atribuídas a máquinas. Na versão mais básica do problema temos n tarefas, com tempos de processamento distintos, que precisam ser alocadas em m máquinas e o objetivo é minimizar o makespan, i.e., o maior tempo de término dentre todas as máquinas. Este é um dos problemas mais estudados em otimização combinatória e foi o primeiro problema para o qual um algoritmo competitivo foi apresentado, por Graham em 1966.
+
+
+Sites relacionados
+
+    Grupo de Estudos em Pesquisa Operacional (GPO) do Departamento de Engenharia de Produção (DEP) da UFSCar.
+    Laboratório de Otimização e Combinatória (LOCo) do Instituto de Computação (IC) da UNICAMP.
+    OR-Library, repositório com conjuntos de instâncias para diversos problemas de Pesquisa Operacional (Operations Research).
+
+Last Update: 21/06/2023 09:51 

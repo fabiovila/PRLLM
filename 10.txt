@@ -1,0 +1,11 @@
+roberto, [18/01/2020 21:45]
+O Leon Sparc e suas bibliotecas aproveitam tanto os recursos do VHDL quanto a ferramenta de configuração do núcleo do Linux
+
+joão, [18/01/2020 21:45]
+mas SPARC tah meio obsoleto hoje em dia neh…
+
+joão, [18/01/2020 21:45]
+a representividade forte do VHDL eh o microwatt lah da IBM
+
+roberto, [18/01/2020 21:46]
+É um projeto antigo. Mas é o único que vi que realmente usa bem o VHDL

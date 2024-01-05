@@ -1,0 +1,39 @@
+Quais são os pacotes listados no texto?	abseil-cpp-20230125.3-2,alsa-card-profiles-1:0.3.76-2,bbswitch-0.8-612,ca-certificates-mozilla-3.92-1,curl-8.2.1-1,easyeffects-7.0.6-1, electron25-25.3.2-1,emacs-29.1-2,fmt-10.0.0-1,glslang-12.3.1-2,graphviz-8.1.0-1,gspell-1.12.2-1,gst-plugin-pipewire-1:0.3.76-2,imagemagick-7.1.1.15-1,inkscape-1.3-2,lensfun-1:0.3.4-3,libarchive-3.7.1-1,libcamera-0.1.0-1,libcamera-ipa-0.1.0-1,libpipewire-1:0.3.76-2,licenses-20230729-1,linux-6.4.7.arch1-1,linux-headers-6.4.7.arch1-1,meson-1.2.0-3,mlt-7.18.0-1,nss-3.92-1,nvidia-535.86.05-5,opensnitch-1.6.1-1,perl-file-listing-6.16-1,pipewire-1:0.3.76-2,pipewire-alsa-1:0.3.76-2,pipewire-audio-1:0.3.76-2,pipewire-pulse-1:0.3.76-2,python-appdirs-1.4.4-8,python-cachecontrol-1:0.13.1-1,python-cairo-1.24.0-1,python-coverage-6.5.0-5,python-grpcio-1.56.2-2,python-lockfile-0.12.2-12,python-rich-13.5.1-1,python-yaml-6.0.1-2,python-zstandard-0.21.0-2,rclone-1.63.1-1,rubberband-3.3.0-1,ruby-3.0.6-1,ruby-bundledgems-3.0.6-1,ruby-stdlib-3.0.6-1,scour-0.38.2-3,telegram-desktop-4.8.10-1,tree-sitter-0.20.10-1,vtk-9.2.6-8,xapian-core-1:1.4.23-1,go-2:1.20.6-1
+Liste os pacotes atualizados do texto.	abseil-cpp-20230125.3-2,alsa-card-profiles-1:0.3.76-2,bbswitch-0.8-612,ca-certificates-mozilla-3.92-1,curl-8.2.1-1,easyeffects-7.0.6-1, electron25-25.3.2-1,emacs-29.1-2,fmt-10.0.0-1,glslang-12.3.1-2,graphviz-8.1.0-1,gspell-1.12.2-1,gst-plugin-pipewire-1:0.3.76-2,imagemagick-7.1.1.15-1,inkscape-1.3-2,lensfun-1:0.3.4-3,libarchive-3.7.1-1,libcamera-0.1.0-1,libcamera-ipa-0.1.0-1,libpipewire-1:0.3.76-2,licenses-20230729-1,linux-6.4.7.arch1-1,linux-headers-6.4.7.arch1-1,meson-1.2.0-3,mlt-7.18.0-1,nss-3.92-1,nvidia-535.86.05-5,opensnitch-1.6.1-1,perl-file-listing-6.16-1,pipewire-1:0.3.76-2,pipewire-alsa-1:0.3.76-2,pipewire-audio-1:0.3.76-2,pipewire-pulse-1:0.3.76-2,python-appdirs-1.4.4-8,python-cachecontrol-1:0.13.1-1,python-cairo-1.24.0-1,python-coverage-6.5.0-5,python-grpcio-1.56.2-2,python-lockfile-0.12.2-12,python-rich-13.5.1-1,python-yaml-6.0.1-2,python-zstandard-0.21.0-2,rclone-1.63.1-1,rubberband-3.3.0-1,ruby-3.0.6-1,ruby-bundledgems-3.0.6-1,ruby-stdlib-3.0.6-1,scour-0.38.2-3,telegram-desktop-4.8.10-1,tree-sitter-0.20.10-1,vtk-9.2.6-8,xapian-core-1:1.4.23-1,go-2:1.20.6-1
+Quantos pacotes serão instalados?	53
+Quantos pacotes são listados?	53
+Qual é o tamanho total de download dos pacotes?	512,31 MiB
+Qual é o tamanho total instalado dos pacotes?	1667,22 MiB
+Qual foi a alteração no tamanho dos pacotes?	218,68 MiB
+Qual é a versão do pacote "abseil-cpp"?	20230125.3-2
+Qual é a versão do pacote "alsa-card-profiles"?	1:0.3.76-2
+Qual é a versão do pacote "bbswitch"?	0.8-612
+Qual é a versão do pacote "ca-certificates-mozilla"?	3.92-1
+Qual é a versão do pacote "curl"?	8.2.1-1
+Qual é a versão do pacote "easyeffects"?	7.0.6-1
+Qual é a versão do pacote "electron25"?	25.3.2-1
+Qual é a versão do pacote "emacs"?	29.1-2
+Qual é a versão do pacote "fmt"?	10.0.0-1
+Qual é a versão do pacote "glslang"?	12.3.1-2
+Qual é a versão do pacote "graphviz"?	8.1.0-1
+O tamanho total de download dos pacotes é 512,31 MiB?	Sim
+O tamanho total instalado dos pacotes é 1667,22 MiB?	Sim
+A alteração no tamanho dos pacotes é 218,68 MiB?	Sim
+O tamanho total de download dos pacotes é 412,31 MiB?	Não
+O tamanho total instalado dos pacotes é 1660,22 MiB?	Não
+A alteração no tamanho dos pacotes é 123,68 MiB?	Não
+Qual o primeiro pacote da lista?	abseil-cpp-20230125.3-2 
+Qual o último pacote da lista?	go-2:1.20.6-1
+Quantos pacotes python serão instalados?	9
+Quantos pacotes python estão na lista?	9
+Quantos pacotes ruby serão instalados?	3
+Quantos pacotes ruby estão na lista?	3
+De que se trata o texto?	Uma lista de pacotes de alguma distribuição Linux que serão atualizados
+O texto é negativo?	Não
+O texto é positivo?	Não
+O texto é neutro?	Sim
+O texto é sobre Linux?	Não fala sobre Linux, mas é um log tipico de atualização de pacotes de distribuições Linux.
+Será feito download na internet?	Sim
+Será instalado algum software?	Sim
+Quais pacotes serão puxados na internet?	abseil-cpp-20230125.3-2,alsa-card-profiles-1:0.3.76-2,bbswitch-0.8-612,ca-certificates-mozilla-3.92-1,curl-8.2.1-1,easyeffects-7.0.6-1, electron25-25.3.2-1,emacs-29.1-2,fmt-10.0.0-1,glslang-12.3.1-2,graphviz-8.1.0-1,gspell-1.12.2-1,gst-plugin-pipewire-1:0.3.76-2,imagemagick-7.1.1.15-1,inkscape-1.3-2,lensfun-1:0.3.4-3,libarchive-3.7.1-1,libcamera-0.1.0-1,libcamera-ipa-0.1.0-1,libpipewire-1:0.3.76-2,licenses-20230729-1,linux-6.4.7.arch1-1,linux-headers-6.4.7.arch1-1,meson-1.2.0-3,mlt-7.18.0-1,nss-3.92-1,nvidia-535.86.05-5,opensnitch-1.6.1-1,perl-file-listing-6.16-1,pipewire-1:0.3.76-2,pipewire-alsa-1:0.3.76-2,pipewire-audio-1:0.3.76-2,pipewire-pulse-1:0.3.76-2,python-appdirs-1.4.4-8,python-cachecontrol-1:0.13.1-1,python-cairo-1.24.0-1,python-coverage-6.5.0-5,python-grpcio-1.56.2-2,python-lockfile-0.12.2-12,python-rich-13.5.1-1,python-yaml-6.0.1-2,python-zstandard-0.21.0-2,rclone-1.63.1-1,rubberband-3.3.0-1,ruby-3.0.6-1,ruby-bundledgems-3.0.6-1,ruby-stdlib-3.0.6-1,scour-0.38.2-3,telegram-desktop-4.8.10-1,tree-sitter-0.20.10-1,vtk-9.2.6-8,xapian-core-1:1.4.23-1,go-2:1.20.6-1
+

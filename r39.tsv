@@ -1,0 +1,46 @@
+Qual o assunto do texto?	uma questão de raciocínio lógico
+O texto é sexual?	não
+o texto é sobre lógica?	sim
+o texto fala de tintas?	sim
+o texto fala de construção?	não
+o texto fala de decoração?	não
+O texto é jornalistico?	não
+O texto é positivo ou negativo?	neutro
+O texto é ofensivo?	não
+O texto é motivador?	não
+O que é solicitado?	qual é a cor de cada casa
+quantas casas são?	3
+quantas casas são?	Três
+Quantas cores são?	3
+quantas cores são?	três
+como é identificado cada casa?	A, B e C
+Quais são as cores?	verde, amarelo e branca
+as casas foram pintadas?	sim
+Quantas afirmações são verdadeiras?	1
+quantas afirmações são verdadeiras?	uma
+quantas afirmações são falsas?	2
+Quantas afirmações são falsas?	duas
+há quantas afirmações?	3
+Quantas afirmações tem na questão?	3
+como calcular quantas afirmações falsas tem?	se são 3 afirmações e somente uma é verdadeira então existem 3-1 = 2 afirmações falsas
+justifique porque há apenas uma afirmação verdadeira	porque o texto afirma que "Sabendo que somente uma das seguintes afirmações é verdadeira"
+Se A é verde quais as possibilidades das outras casas?	B é amarela e C é branca ou B é branca e C é amarela
+qual a primeira proposição?	A é verde
+Qual a segunda proposição?	B não é verde
+qual é a terceira proposição? C não é amarela
+Qual é a quarta proposição?	não há quarta proposição
+Se B não é verde então	B ou é amarela ou é branca
+Se C não é amarela então	C ou é verde ou C é branca
+C não é amarela	então C ou é verde ou C é branca
+C é amarela	então B é verde e A é branca ou B é branca e A é verde
+A é azul	não tem azul na questão
+Z é amarela	não tem casa Z na questão
+A é verde	então B é amarela e C é branca ou B é branca e C é amarela
+A não é verde	então A é branca ou A é amarela
+B é verde	então A é branca e C é amarela ou A é amarela e C é branca
+B não é verde	então B é amarela ou B é branca
+A é verde	então B é branca e C é amarela ou B é amarela e C é branca
+A não é verde	então A é branca ou A é amarela
+
+
+

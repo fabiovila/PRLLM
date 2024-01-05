@@ -1,0 +1,32 @@
+Aposentado britânico surpreende matemáticos com forma geométrica inédita
+História por • Há 4 h
+
+Um britânico aposentado de 64 anos, apaixonado por matemática, surpreendeu os especialistas em geometria com uma descoberta inédita: um polígono que pode ser montado infinitamente, sem criar a mesma forma em uma escala maior.
+
+Qualquer forma geométrica bidimensional, como um losango, quando montada em uma superfície plana, eventualmente formará um losango maior.
+
+Mas isso não acontece com o chamado “chapéu” de 13 lados, inventado por David Smith em março passado.
+
+Trata-se de um “monotilo aperiódico”, ou seja, uma forma única que não gera um padrão repetitivo.
+
+Na linguagem matemática, é um “einstein”, embora essa palavra não se refira ao genial cientista alemão que descobriu a Teoria da Relatividade.
+
+“Einstein” vem do alemão “ein stein”, que significa “uma pedra”.
+
+Descobrir um “einstein” tem sido um desafio no mundo da geometria há 60 anos.
+
+À medida que a descoberta foi ganhando popularidade, os fãs desse modesto aposentado de East Yorkshire, que trabalhava em uma gráfica, começaram a estampar o polígono em camisetas, ou a assar biscoitos com essa forma.
+
+Agora, David Smith acaba de demonstrar seu gênio novamente com uma nova “pedrada”: um novo polígono batizado de “espectro”.
+
+A única desvantagem do “chapéu” era que a cada sete vezes era necessário girá-lo para evitar a aparição da mesma forma.
+
+Com o “espectro”, que Smith acaba de criar com a ajuda de três matemáticos, não é necessário girar o monotilo.
+
+É “uma história divertida e quase ridícula, maravilhosa”, disse Craig Kaplan, professor de ciência da computação da Universidade de Waterloo, no Canadá.
+
+Esse novo “espectro” já foi testado, por meio de potentes programas de computador.
+
+À espera da publicação de dois artigos científicos que demonstrarão a eficácia desse monotilo, os especialistas se declaram fascinados.
+
+Ambas as formas são “impressionantes”, nas palavras de Doris Schattschneider, matemática da Universidade de Morávia (Pensilvânia), enquanto o Prêmio Nobel de Física de 2020, Roger Penrose, especialista na área, planeja participar de um evento em Oxford em junho para comemorar o acontecimento.

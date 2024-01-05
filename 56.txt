@@ -1,0 +1,7 @@
+Este documento é um guia para instalação do Arch Linux usando o sistema live inicializado de uma mídia de instalação feita a partir da imagem de instalação oficial. A mídia de instalação fornece recursos de acessibilidade que são descritas na página Instalar Arch Linux com opções de acessibilidade. Para meios alternativos de instalação, consulte Category:Installation process (Português).
+
+Antes de instalar, é recomendável ler rapidamente o FAQ. Para convenções usadas neste documento, veja Help:Leitura. Em especial, exemplos de código podem conter objetos reservados (formatados em italics) que devem ser substituídos manualmente.
+
+Este guia é mantido conciso e é recomendado que você siga as instruções na ordem apresentada por seção. Para instruções mais detalhadas, veja os respectivos artigos ArchWiki ou as páginas man dos vários programas, ambos relacionados neste guia. Para uma ajuda interativa, o canal IRC e os fóruns também estão disponíveis.
+
+Arch Linux deve funcionar em qualquer máquina compatível com x86_64 com um mínimo de 512 MiB de RAM, apesar de que mais memória é necessária para inicializar o sistema live para instalação[1]. Uma instalação básica deve ocupar menos de 2 GiB de espaço em disco. Como o processo de instalação precisa obter pacotes de repositório remoto, esse guia presume que uma conexão com a Internet esteja disponível. 

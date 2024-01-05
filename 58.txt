@@ -1,0 +1,8 @@
+Qualquer programa linear de maximização tem um problema de minimização
+correspondente denominado o problema dual. Qualquer solução viável para o problema
+dual fornece um limite superior para o valor ótimo do problema inicial, que é chamado
+de primal. Reciprocamente, qualquer solução viável do primal fornece um limite inferior
+no valor ótimo do problema dual. Na verdade, se um dos dois problemas admite uma
+solução ótima, então o outro problema também admite e as soluções ótimas combinam
+entre si. Esta seção é dedicada a esse resultado, também conhecido como teorema da
+dualidade.

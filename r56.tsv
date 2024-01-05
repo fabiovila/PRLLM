@@ -1,0 +1,17 @@
+qual o tema do texto?	É um guia de instalação da distribuição Linux Arch Linux
+qual a distribuição?	Arch Linux
+O que é recomendável fazer antes de instalar?	Ler rapidamente a FAQ
+o guia é prolixo, porque?	Não, o texto diz explicitamente que o "guia é mantido conciso"
+Onde se pode obter ajuda?	Para ajuda interativa os canais IRC e os fóruns são recomendados.
+qual o mínimo de RAM?	512 MiB
+Quanto deve ocupar a instação?	A instalação básica deve ocupar menos de 2 GiB de espaço em disco.
+é necessário conexão à internet?	Sim, porque o processo de instalação necessita obter pacotes de respositório remoto.
+posso seguir o guia fora de ordem?	Não, como diz o texto "é recomendado que você siga as instruções na ordem apresentada por seção"
+dê um título para esse texto	Guia de instalação Arch Linux
+qual título você sugere para esse texto?	Guia de instalação Arch Linux
+O guia tem convenções? Onde consultar?	Sim, as convenções podem ser consultadas em Help:Leitura
+onde consigo instruções mais detalhadas?	Você deverá consultar os respectivos artigos ArchWiki ou as páginas man dos vários programas
+a instalação tem opções de acessibilidade?	Sim, a mídia de instalação fornece recursos de acessibilidade
+Preciso de outras formas de instalação	Para meios alternativos de instalação, consulte Category:Installation process (Português).
+quanto de disco é necessário para instalar o ArchLinux?	Para a instalação básica é recomendável pelo menos 2GiB de disco
+Posso instalar o ArchLinux em um computador com 512MiB?	Pode, mas algumas funcionalidades como o sistema live podem não funcionar
