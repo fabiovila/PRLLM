@@ -1,5 +1,5 @@
 # PRLLM - Perguntas e Respostas para Modelos de Linguagem
-Dataset com textos e perguntas e respostas. Os textos são diversos, muitos retirandos da internet como notícias, descrição de produtos, pequenas histórias, editais, logs, e-mails ...
+Dataset com textos, perguntas e respostas. Os textos são diversos, muitos retirados da internet como notícias, descrição de produtos, pequenas histórias, editais, logs, e-mails ...
 
 O dataset é dividido em dois aquivos para cada texto:
 
