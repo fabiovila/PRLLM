@@ -1,0 +1,44 @@
+quem é o professor?	Emanuel Silva
+quem é o professor?	Emanuel
+quantos e-mail tem?	2
+de quem é a mensagem original?	Paulo Cesar Nascimento
+qual o e-mail do professor?	emanual.silva@unespin.edu.br
+Qual o e-mail do aluno?	paulo.guerra@gmail.com
+qual a data do e-mail?	O e-mail original foi postado em segunda-feira, 29 de janeiro de 2024 23:13, não há informação de postagem do e-mail resposta
+de quem é o e-mail original?	paulo
+de quem é o e-mail resposta?	Emanuel
+Qual é o curso?	19 Edição do Curso de Eletrobióticos
+qual é o curso?	Curso de Eletrobióticos
+Qual a edição do curso?	19 Edição
+extraia o assunto do e-mail	Certificado 19 Edição
+extraia a data do e-mail	segunda-feira, 29 de janeiro de 2024 23:13
+qual o domínio do e-mail do professor?	unespin.edu.br
+extraia o domínio do e-mail do solicitante?	gmail.com
+quem solicita?	Paulo
+o que Paulo solicita?	Uma forma de obter o certificado da realização do curso
+Por que Paulo solicita?	Ele perdeu o certificado em um HDD que queimou
+Paulo foi polido?	sim como se lê nos trechos  "Boa Noite Prof Emanuel," e "Desculpe o incomodo"
+extraia o campo Para do e-mail	Emanuel.Silva - Unespin <emanual.silva@unespin.edu.br>
+extraia o campo de do e-mail	paulo <paulo.guerra@gmail.com> 
+extraia o campo Enviado em	segunda-feira, 29 de janeiro de 2024 23:13
+como Paulo pode obter o certificado?	Acessando o site http://certificados.unespin.edu.br/ para emitir o certificado utilizando seu CPF
+qual é o site?	http://certificados.unespin.edu.br/
+preciso de algum documento?	Sim, o CPF
+Só preciso do CPF?	Sim
+Paulo procurou em alguns lugares antes, quais foram?	No Moodle do curso e nos e-mails antigos.
+Paulo disse que conseguiu recuperar o certificado pelo e-mail	Outros certificados, o certificado do curso em questão ele não achou
+Boa noite?	Paulo deve escreveu o e-mail a noite
+quem queimou?	o HDD do seu computador
+o que se perdeu?	Certificados de cursos
+Paulo solicita o certificado?	Não exatamente, ele solicita um caminho para obter o certificado
+houve outras edições do curso de Eletrobióticos?	Pode-se inferir que houve antes 19 edições do curso de Eletrobióticos.
+extraia o divisor dos dois e-mail	-----Mensagem original-----
+extraia os nomes das pessoas	Emanuel Silva e Paulo Cesar Nascimento
+extraia os nomes das pessoal em formato lista do python	['Emanuel Silva', 'Paulo Cesar Nascimento']
+extraia os e-mails em formato lista	['emanual.silva@unespin.edu.br','paulo.guerra@gmail.com']
+extraia os número de telefones em formato lista	[]
+extraia os número de telefones	Não há número de telefones no texto dado
+extraia os cachorros em formato lista	[]
+extraia os cursos em formato lista	['Curso de Eletrobióticos']
+extraia a data em string	'segunda-feira, 29 de janeiro de 2024 23:13'
+extraia os campos do e-mail em formato json	{'de':'paulo <paulo.guerra@gmail.com>','enviado em':'segunda-feira, 29 de janeiro de 2024 23:13','para':'Emanuel.Silva - Unespin <emanual.silva@unespin.edu.br>','assunto':'Certificado 19 Edição'}
