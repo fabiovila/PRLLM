@@ -1,5 +1,3 @@
-Sure, here's the translated version in English:
-
 # en-US PRLLM - Questions and Answers for Language Models
 Dataset with texts, questions, and answers. The texts are diverse, many taken from the internet such as news, product descriptions, short stories, notices, logs, emails...
 
