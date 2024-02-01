@@ -1,4 +1,4 @@
-# en-US PRLLM - Questions and Answers for Language Models
+# en-US PRLLM - Portuguese Questions and Answers for Language Models
 Dataset with texts, questions, and answers. The texts are diverse, many taken from the internet such as news, product descriptions, short stories, notices, logs, emails...
 
 The dataset is divided into two files for each text:
